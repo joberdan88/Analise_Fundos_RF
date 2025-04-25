@@ -1,0 +1,34 @@
+Second Report for a Student Chosen Project
+
+1. In the table below, list the dates, amount of time spent, and
+description of the work that you did on your project. Follow the example
+that is in the first row of the table below. Include the time you spent
+doing any of the following:
+    a. discussing your project with your teacher, tutor, or fellow students
+    b. researching by reading articles and watching applicable videos
+    c. designing your project by drawing diagrams and other applicable documents
+    d. writing experimental code
+    d. writing code for your project
+    e. writing test functions
+    f. debugging your code
+    g. any other activity that helped you complete your project
+
+=============Example====================
+            Time Spent
+              Time Spent
+   Date       (hours)   Description of Work
+----------  ----------  -----------------------------------------------
+2025-04-08      2.0     Initial project structure and drafting core functions.
+2025-04-09      2.5     Imported monthly return data for the funds and CDI using Power BI and Python.
+2025-04-10      2.0     Calculated Sharpe ratio for multiple periods (12, 24, 36 months).
+2025-04-11      1.0     Refactored functions to ensure single responsibility.
+2025-04-12      1.0     Created pytest test functions for Sharpe ratio and annualized return.
+2025-04-14      1.5     Performed testing, validations with pytest, and debugging.
+2025-04-15      1.5     Finalized the code, added documentation, and prepared submission.
+
+=============Example====================
+
+
+2. In Canvas, submit this completed text file, your Python program, your
+Python test file, and any project data files such as .txt and .csv files and
+link to video walkthrough if needed.
